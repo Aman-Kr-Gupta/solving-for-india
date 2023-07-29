@@ -1,0 +1,11 @@
+Jupyter Notebook
+Python
+Numpy
+Matplotlib-pyplot
+keras
+PIL-Image
+tensorflow.keras.applications.vgg16- vgg16 
+tensorflow.keras.layers- Input, Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+tensorflow.keras.models- Model
+tensorflow.keras.optimizers- Adam
+tensorflow.keras.preprocessing.image- ImageDataGenerator
